@@ -3,12 +3,8 @@
 ![289036994-32c9715b-693d-4d67-b238-04f4da7b7904](https://github.com/user-attachments/assets/301036db-8f9f-4d5a-9743-2750f2a06a74)
 
 
-
-
 ## 프로젝트 소개
 Spring Boot와 JPA를 사용하여 구현한 인스타그램 클론 웹 애플리케이션입니다.
-
-
 
 
 ## 기술 스택
@@ -20,8 +16,6 @@ Spring Boot와 JPA를 사용하여 구현한 인스타그램 클론 웹 애플�
 
 ## ERD
 ![photogram](https://github.com/user-attachments/assets/e1f4c821-2391-417a-abe1-b94aee9d2261)
-
-
 
 
 ## 주요 기능
@@ -47,8 +41,6 @@ Spring Boot와 JPA를 사용하여 구현한 인스타그램 클론 웹 애플�
 5. 데이터베이스
    - JPA를 이용한 복잡한 연관관계 처리
    - 다대다 관계 처리
-
-
 
 
 ## 실행 화면
