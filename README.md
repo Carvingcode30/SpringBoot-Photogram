@@ -8,10 +8,10 @@ Spring Boot와 JPA를 사용하여 구현한 인스타그램 클론 웹 애플�
 
 
 ## 기술 스택
-- Backend: Java, Spring Boot, Spring Security, JPA, MariaDB
+- Backend: Java, Spring Boot, JPA, MariaDB
 - Frontend: JavaScript, jQuery, JSP
-- 인증: OAuth 2.0 (Facebook, Google 로그인)
-- 기타: Spring Security, AOP, ResponseEntity
+- 보안인증: Spring Security, OAuth 2.0 (Facebook, Google 로그인)
+- 세부구현사항: AOP, ResponseEntity, Custom 예외처리
 
 
 ## ERD
