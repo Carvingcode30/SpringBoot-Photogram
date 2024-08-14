@@ -15,6 +15,7 @@ Spring Boot와 JPA를 사용하여 구현한 인스타그램 클론 웹 애플�
 
 
 ## ERD
+![photogram](https://github.com/user-attachments/assets/e1f4c821-2391-417a-abe1-b94aee9d2261)
 
 
 ## 주요 기능
