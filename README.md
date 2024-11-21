@@ -21,9 +21,6 @@ Spring Boot와 JPA를 사용하여 구현한 인스타그램 클론 웹 애플�
 ![Photogram](https://github.com/user-attachments/assets/56344c19-9a35-4abf-8a13-9be6db778439)
 
 
-![Photogram-Chrome2024-11-2110-46-06-ezgif com-optimize](https://github.com/user-attachments/assets/83012d04-3ec6-4799-ac5a-a2111f718dcc)
-
-
 ## 주요 기능
 1. 사용자 관리
    - 회원가입 및 로그인 (ID, Facebook, Google)
